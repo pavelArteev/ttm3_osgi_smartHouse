@@ -1,0 +1,5 @@
+Service-Component: *
+Bundle-Version: 1.0.0
+Private-Package: com.ttm3.ithouse.simulator.thermometer,\
+	com.ttm3.ithouse.gui,\
+	com.ttm3.ithouse.sensor

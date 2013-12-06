@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin" path="src"/>
+	<classpathentry kind="src" output="bin_test" path="test"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="con" path="aQute.bnd.classpath.container"/>
+	<classpathentry kind="lib" path="/Users/pavelarteev/.bnd/cache/https%3A%2F%2Fgithub.com%2Fbndtools%2Fbundle-hub%2Fraw%2Fmaster%2Fbiz.aQute.bnd.annotation/biz.aQute.bnd.annotation-1.52.3.jar"/>
+	<classpathentry kind="src" path="/hydna-bundle"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,7 @@
+-buildpath: osgi.core,\
+	osgi.cmpn,\
+	biz.aQute.bnd.annotation,\
+	junit.osgi,\
+	hydna-ntnu-student-bundle.hydna_bundle;version=latest
+-runbundles: com.ttm3.ithouse;version=latest
+-sub: *.bnd

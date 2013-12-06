@@ -1,0 +1,5 @@
+Private-Package: hydna.ntnu.student.impl
+Export-Package: hydna.ntnu.student.api,\
+	hydna.ntnu.student.listener.api
+Bundle-Version: 1.0.0
+Service-Component: *

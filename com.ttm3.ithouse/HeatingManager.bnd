@@ -1,0 +1,4 @@
+Service-Component: *
+Private-Package: com.ttm3.ithouse.heatingManager,\
+	com.ttm3.ithouse.gui,\
+	com.ttm3.ithouse.sensor
